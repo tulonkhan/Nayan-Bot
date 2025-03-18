@@ -9,15 +9,15 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "tulon-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100080654567386",
+    "61560540512044"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "100080654567386",
+    "61560540512044"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
